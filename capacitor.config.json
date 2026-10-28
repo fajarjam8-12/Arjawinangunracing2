@@ -1,0 +1,7 @@
+{
+  "appId": "id.arjawinangun.racing",
+  "appName": "Arjawinangun Racing",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#000000" }
+}
